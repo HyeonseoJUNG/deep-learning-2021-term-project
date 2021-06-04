@@ -28,7 +28,7 @@ This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the Py
 - You can see more details in [Tutorial](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/wiki)
 ---
 ## Result
-- The Final best score is **0.86833**.
+- The Final best score is **0.88333**.
 - output:    
 ![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(6).png)  
 ![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(7).png) 
