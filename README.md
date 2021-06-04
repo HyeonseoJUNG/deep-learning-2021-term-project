@@ -25,7 +25,10 @@ This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the Py
 - Dataset
    - A subset of Yoga-82 dataset: 6 Classes - balancing, inverted, reclining, sitting, standing, and wheel.
    - URL: https://sites.google.com/view/yoga-82/
+- You can see more details in [Tutorial](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/wiki)
 ---
 ## Result
 - The Final best score is **0.86833**.
-- 
+- output:    
+![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(6).png)  
+![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(7).png) 
