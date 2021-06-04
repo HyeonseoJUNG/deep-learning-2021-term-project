@@ -7,10 +7,10 @@ This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the Py
 - Hyeonseo Jung (windymay1920@gmail.com)
 ---
 ## Objective  
-### Kaggle - Gachon Deep Learning Class Competition
+### 1. Kaggle - Gachon Deep Learning Class Competition
 - Yoga 6 Classes Classification
 - URL: https://www.kaggle.com/c/gachon-deeplearning
-### Contributing to the Pytorch open source community: implementent the 3333
+### 2. Contributing to the Pytorch open source community: implementing Automatic Hyerparameter Tuner
 ---
 ## File Information
 - Written by: Sehoon An, Jinkyung Kim, Hyeonseo Jung (***[Important] Based on Reference Code provided by Professor Jungchan Cho's deep learning class of Gachon University***)
@@ -29,6 +29,6 @@ This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the Py
 ---
 ## Result
 - The Final best score is **0.88333**.
-- output:    
+- Train Result:    
 ![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(6).png)  
 ![](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/blob/main/Image/picture%20(7).png) 
