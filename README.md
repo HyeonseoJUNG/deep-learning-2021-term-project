@@ -24,7 +24,7 @@ This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the Py
 - 'Kaggle Kernel' or 'Google Colaboratory'
 - Dataset
    - A subset of Yoga-82 dataset: 6 Classes - balancing, inverted, reclining, sitting, standing, and wheel.
-   - URL: https://sites.google.com/view/yoga-82/
+   - URL: https://sites.google.com/view/yoga-82/ (Be aware of copyright)
 - You can see more details in [Tutorial](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/wiki)
 ---
 ## Result
