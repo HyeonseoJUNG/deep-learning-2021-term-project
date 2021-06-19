@@ -2,7 +2,7 @@
 This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the PyTorch open source community'* projects conducted in Gachon University's deep learning class.  
 ---
 ## Member Information
-- Sehoon An (ansehoon1999@gmail.com)
+- Sehun An (ansehoon1999@gmail.com)
 - Junkyung Kim (lxs987@naver.com)
 - Hyeonseo Jung (windymay1920@gmail.com)
 ---
